@@ -1,4 +1,4 @@
-# jekyll-starter-template
+# jekyll-theme-hacker-example
 
 This repo is a template to create more repos for jekyll based repo.
 
@@ -7,7 +7,7 @@ This repo is a template to create more repos for jekyll based repo.
 
 ***table of contents***
 
-- [jekyll-starter-template](#jekyll-starter-template)
+- [jekyll-theme-hacker-example](#jekyll-theme-hacker-example)
   - [Getting started](#getting-started)
 
 ## Getting started
@@ -18,9 +18,9 @@ This repo is a template to create more repos for jekyll based repo.
 4. you should have these installed on your machine - `docker` and `chrome browser`
 5. Run the command in terminal - `sh scripts/localhost.sh create`
 6. This creates basic folder structure.
-7. Replace all instances of text `jekyll-starter-template` with your repo name (example - `my_repo_name`), this will change below files
-   1. `docker-compose.yml` - change `container_name: jekyll-starter-template` to `container_name: my_repo_name`
-   2. `localhost.sh` - `http://localhost:9999/jekyll-starter-template/` to `http://localhost:9999/my_repo_name/`
+7. Replace all instances of text `jekyll-theme-hacker-example` with your repo name (example - `my_repo_name`), this will change below files
+   1. `docker-compose.yml` - change `container_name: jekyll-theme-hacker-example` to `container_name: my_repo_name`
+   2. `localhost.sh` - `http://localhost:9999/jekyll-theme-hacker-example/` to `http://localhost:9999/my_repo_name/`
 8. `_config.yml`
     1. update `baseurl` as `/my_repo_name`
     2. uncomment `exclude:` and add below yml section to ignore files for creating _site
