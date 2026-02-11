@@ -25,6 +25,8 @@ baseurl: "/jekyll-theme-hacker-example" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+github:
+  repository_url: https://github.com/pages-themes/hacker
 
 # Build settings
 # theme: minima
