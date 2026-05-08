@@ -1,10 +1,10 @@
-# jekyll-theme-hacker-example
+# jekyll-theme-example-hacker
 
 Template to start a jekyll repo using docker.
 
 ***table of contents***
 
-- [jekyll-theme-hacker-example](#jekyll-theme-hacker-example)
+- [jekyll-theme-example-hacker](#jekyll-theme-example-hacker)
   - [Getting started](#getting-started)
   - [Running on local](#running-on-local)
   - [Troubleshooting](#troubleshooting)
